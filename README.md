@@ -1,7 +1,7 @@
 # What is this?
 
 This project contains scripts to reproduce experiments from the paper
-[Deep-Learned Approximate Message Passing for Asynchronous Massive Connectivity](https://ieeexplore.ieee.org/abstract/document/9390399/)
+"[Deep-Learned Approximate Message Passing for Asynchronous Massive Connectivity](https://ieeexplore.ieee.org/abstract/document/9390399/)"
 by 
 [Weifeng Zhu](mailto://wf.zhu@sjtu.edu.cn)
 ,
