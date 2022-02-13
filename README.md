@@ -10,7 +10,7 @@ by
 [Xiaojun Yuan](mailto://xjyuan@uestc.edu.cn)
 , and [Yunfeng Guan](mailto://yfguan69@sjtu.edu.cn).
 Published in IEEE Transactions on Wireless Communications.
-See also the related [preprint](https://arxiv.org/abs/2101.00651)
+See also the related [preprint](https://arxiv.org/abs/2101.00651).
 
 This project is produced by referring to the [project](https://github.com/mborgerding/onsager_deep_learning) of Mark Borgerding.
 
