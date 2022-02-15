@@ -12,7 +12,7 @@ by
 Published in IEEE Transactions on Wireless Communications.
 See also the related [preprint](https://arxiv.org/abs/2101.00651).
 
-This project is produced by referring to the [project](https://github.com/mborgerding/onsager_deep_learning) of Mark Borgerding.
+Part of these codes are produced by referring to the [project](https://github.com/mborgerding/onsager_deep_learning) of Mark Borgerding.
 
 # The Problem of Interest
 
