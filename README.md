@@ -14,6 +14,8 @@ See also the related [preprint](https://arxiv.org/abs/2101.00651).
 
 Part of these codes are produced by referring to the [project](https://github.com/mborgerding/onsager_deep_learning) of Mark Borgerding that design the LAMP network for the CS-SMV problem.
 
+If this project help your researches, it is appreciated that this work is added in the reference of your papers.
+
 # The Problem of Interest
 
 Briefly, the activity detection, delay detection and channel problem in asynchronous massive connectivity can be formulated as a hierarchical sprase signal recovery problem. We design the deep-unfolded AMP network to solve the problem in both SMV and MMV.
